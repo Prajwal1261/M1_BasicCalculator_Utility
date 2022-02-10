@@ -2,8 +2,8 @@
 A calculator is a device which is capable of performing certain arthmetic tasks and allows people to do math operations more easily.Some of the basic mathematical operations it performs are addition, subtraction, multiplication, division and many other operations as well.Calculators provide operations for user to select one at a time.So calculator making computations much quicker and more exact which reduces time in solving complex problems.
 
 ## Research
-https://codeforwin.org/2015/06/c-program-to-create-simple-calculator-using-switch-case.html
-https://learnprogramo.com/calculator-program-c/
+- https://codeforwin.org/2015/06/c-program-to-create-simple-calculator-using-switch-case.html
+- https://learnprogramo.com/calculator-program-c/
 
 ## High level requirements
 - Display the contents of operations for the user.
@@ -35,7 +35,7 @@ https://learnprogramo.com/calculator-program-c/
 ## What
 - This project gives many operations for the user to solve the problem.
 ## When
-- It is poratable and can be used whenever we want.
+- It is portable and can be used whenever we want.
 ## Where
 - In buisness, basic, and scientific are the three main categories in market today.
 ## How
