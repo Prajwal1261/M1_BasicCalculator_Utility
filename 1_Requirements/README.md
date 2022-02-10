@@ -30,13 +30,13 @@ https://learnprogramo.com/calculator-program-c/
 - Slower growth in technological innovation will bring significant threat in the upcoming dynamic world.
 
 # 4W's and 1H
-Who
+## Who
 - Calculator offers an exceptional benefit for students to solve complicated problems quickly and in efficient manner.
-What
+## What
 - This project gives many operations for the user to solve the problem.
-When
+## When
 - It is poratable and can be used whenever we want.
-Where
+## Where
 - In buisness, basic, and scientific are the three main categories in market today.
-How
+## How
 - It is implemented using switch-case and functions of required operation the user wants.
