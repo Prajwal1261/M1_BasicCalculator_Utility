@@ -7,7 +7,7 @@
 
 # Low level Test Plan
 
-| Test_Id | Function | Exp I/P | Exp O/P | Actual Output | Type of Test |
+| Test_Id | Function | I/P | Exp O/P | Actual Output | Type of Test |
 | ----- | ----- | ------- | ----- | ------- | ------ |
 |LL01|Addition| Float value | Float output | Float output| Unit test |
 |LL02|Addition| int value | Termination | Termination | Unit test |
