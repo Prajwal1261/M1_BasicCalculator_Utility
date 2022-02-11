@@ -7,9 +7,9 @@ In this project along with simple operations additional operations like factoria
 
 #### Code Analysis
 
-code quality score | code grade |
-|--------------------|------------
-| ![Code Quality Score](https://api.codiga.io/project/31074/score/svg) |![Code grade](https://api.codiga.io/project/31074/status/svg)
+code quality score | code grade | codacy badge |
+|--------------------|------------|----------|
+| ![Code Quality Score](https://api.codiga.io/project/31074/score/svg) |![Code grade](https://api.codiga.io/project/31074/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c00755087dd944c68afb4cb5a6f7f8b3)](https://www.codacy.com/gh/Prajwal1261/M1_BasicCalculator_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Prajwal1261/M1_BasicCalculator_Utility&amp;utm_campaign=Badge_Grade)|
 
 #### Folder Structure
 Folder             | Description
