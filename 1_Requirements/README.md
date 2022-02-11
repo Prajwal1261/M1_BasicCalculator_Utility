@@ -1,5 +1,5 @@
 ## Introduction
-A calculator is a device which is capable of performing certain arthmetic tasks and allows people to do math operations more easily.Some of the basic mathematical operations it performs are addition, subtraction, multiplication, division and many other operations as well.Calculators provide operations for user to select one at a time.So calculator making computations much quicker and more exact which reduces time in solving complex problems.
+A calculator is a device which is capable of performing certain arithmetic tasks and allows people to do math operations more easily.Some of the basic mathematical operations it performs are addition, subtraction, multiplication, division and many other operations as well.Calculators provide operations for user to select one at a time.So calculator making computations much quicker and more exact which reduces time in solving complex problems.
 
 In this project along with simple operations additional operations like factorial, Power, modulus, square and cube of a number is performed.
 
@@ -43,7 +43,7 @@ Project is performed using switch-case and function call to display the result u
 ## What
 - This project gives many operations for the user to solve the problem quickly.
 ## When
-- It is portable and can be used whenever we want for arthmetic operations.
+- It is portable and can be used whenever we want for arithmetic operations.
 ## Where
 - In buisness, basic, and scientific are the three main categories in market today.
 ## How
