@@ -14,4 +14,4 @@
 |LL03|subtraction| Float value | Float output | Float output| Unit test |
 |LL04|subtraction| int value | Termination | Termination | Unit test |
 
-- Only for two functions testing is done.
+- Two functions has been Tested and project working accordingly.
