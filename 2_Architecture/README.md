@@ -1,5 +1,5 @@
 ## Architecture
-- Add UML diagrams
+- Added UML diagrams
 
 ## Tools Used
 - Draw.io
